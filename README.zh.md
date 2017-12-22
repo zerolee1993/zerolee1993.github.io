@@ -185,7 +185,7 @@ duoshuo_username: _你的用户名_
 disqus_username: _你的用户名_
 ```
 
-**最后**多说是支持分享的，如果你不想分享，请这样设置：`duoshuo_share: false`。你可以同时使用两个评论系统，不过个人感觉怪怪的。
+**最后** 多说是支持分享的，如果你不想分享，请这样设置：`duoshuo_share: false`。你可以同时使用两个评论系统，不过个人感觉怪怪的。
 
 #### Analytics
 
