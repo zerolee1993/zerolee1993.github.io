@@ -7,7 +7,6 @@ author:     "Zero"
 header-img: "img/post-bg/python.jpg"
 tags:
     - 技术
-    - AI
     - Python
 ---
 

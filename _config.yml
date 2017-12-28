@@ -1,6 +1,6 @@
 # Site settings
-title: Zero
-SEOTitle: 李少飞 | Zero Lee's Blog
+title: 李少飞的独立博客
+SEOTitle: 李少飞的独立博客
 header-img: img/home-bg.jpg
 email: zerolee1993@163.com
 description: "像我这样寻找的人。"
@@ -68,7 +68,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "像我这样寻找的人。"
+sidebar-about-description: "Java工程师 AI爱好者。"
 sidebar-avatar: /img/avatar-zero.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -82,19 +82,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Zero",
+        title: "Ashley",
         href: "#"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
+        title: "Yoga",
         href: "#"
     }
 ]
