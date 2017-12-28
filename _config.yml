@@ -1,9 +1,9 @@
 # Site settings
-title: 李少飞的独立博客
+title: Zero
 SEOTitle: 李少飞的独立博客
 header-img: img/home-bg.jpg
 email: zerolee1993@163.com
-description: "像我这样寻找的人。"
+description: "李少飞的独立博客"
 keyword: ""
 url: "http://zerolee1993.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -80,12 +80,12 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Ashley",
-        href: "#"
-    },{
-        title: "Yoga",
-        href: "#"
-    }
-]
+# friends: [
+#     {
+#         title: "Ashley",
+#         href: "#"
+#     },{
+#         title: "Yoga",
+#         href: "#"
+#     }
+# ]
