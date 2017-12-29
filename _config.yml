@@ -43,7 +43,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
+  toc_levels: 4..6 #指定md中目录显示的行号范围
 
 
 # Disqus settings
