@@ -2,11 +2,10 @@
 layout:     post
 title:      "Python入门教程-3"
 subtitle:   "第三篇（共七篇）：常用迭代"
-date:       2017-12-26
+date:       2017-12-18
 author:     "Zero"
 header-img: "img/post-bg/python.jpg"
 tags:
-    - 技术
     - Python
 ---
 

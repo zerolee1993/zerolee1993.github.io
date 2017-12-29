@@ -2,11 +2,10 @@
 layout:     post
 title:      "Python入门教程-7"
 subtitle:   "第七篇（共七篇）：特殊方法"
-date:       2017-12-26
+date:       2017-12-18
 author:     "Zero"
 header-img: "img/post-bg/python.jpg"
 tags:
-    - 技术
     - Python
 ---
 

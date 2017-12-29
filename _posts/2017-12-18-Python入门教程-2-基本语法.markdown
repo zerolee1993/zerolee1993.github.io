@@ -2,11 +2,10 @@
 layout:     post
 title:      "Python入门教程-2"
 subtitle:   "第二篇（共七篇）：基本语法"
-date:       2017-12-26
+date:       2017-12-18
 author:     "Zero"
 header-img: "img/post-bg/python.jpg"
 tags:
-    - 技术
     - Python
 ---
 
