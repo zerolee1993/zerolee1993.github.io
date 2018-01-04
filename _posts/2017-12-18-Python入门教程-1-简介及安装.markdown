@@ -60,6 +60,7 @@ tags:
   - anaconda show dhirschfeld/tensorflow 查看版本"dhirschfeld/tensorflow"的安装命令
   - 根据提示命令进行安装
 - PS：在windows下安装tensorflow必须使用python3版本，所以Anaconda也应该安装python3对应的版本，并且建议使用`pip install tensorflow`而不是上述命令去安装tensorFlow，因为这样安装的tensorflow会缺失一些东西，比如刚接触tensorflow的朋友们学习MNIST数据集，会使用到一个input_data.py，使用anaconda安装的tensorFlow是没有这个模块的~
+- PS：如何安装低版本的tensorflow呢，很简单，打开Anaconda Prompt，在命令行中输入`pip install tensorflow==0.xx`，因为版本号指定的不明确，命令行中会提示tensorflow的所有版本号，然后再次使用该命令，指定明确的版本号，就可以安装了，python的其他工具包低版本安装可以用同样方法
 
 #### 下载安装：
 
