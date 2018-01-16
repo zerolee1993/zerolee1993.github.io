@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Python入门教程-2"
+title:      "Python入门教程-2-基本语法"
 subtitle:   "第二篇（共七篇）：基本语法"
 date:       2017-12-18
 author:     "Zero"
@@ -9,9 +9,14 @@ categories: technology
 tags: Python
 ---
 
-## 基本语法
+### 目录
 
-#### 常用操作
+* 纲要
+{:toc}
+
+---
+
+#### 1、常用操作
 
 - 输出
     - 使用print语句输出
@@ -20,7 +25,9 @@ tags: Python
     - 仅支持单行注释`#注释内容`
     - 可以单独占用一行，也可以在一行代码末尾
 
-#### 基本数据类型
+---
+
+#### 2、数据类型
 
 - 整数
     - Python中整数的表示方法和数学上的写法一致
@@ -52,13 +59,15 @@ tags: Python
     - Python中的特殊值，用None表示
     - None不是0，0是有意义的
 
-#### 流程控制
+---
+
+#### 3、流程控制
 
 - 分支语句if
     - if可以和elif、else配合使用完成分支控制
     - Python中具有相同缩进的代码被视为代码块，为了避免因缩进引起的语法错误，Python习惯使用四个空格进行缩进
 
-```css
+```python
 age = 20
 if age >= 18:
   print ('adult')
@@ -73,7 +82,7 @@ else:
 - 循环语句for
     - for循环可以将list、tuple中的元素依次迭代出来
 
-```css
+```python
 foods = ['apple','banana','orange']
 for food in foods:
     print (food)
@@ -83,7 +92,7 @@ for food in foods:
     - while判断条件为True，则执行循环体代码块，否则退出循环
     - 举个李子：打印1~10
 
-```css
+```python
 N = 11
 x = 0
 while x < N:
@@ -95,21 +104,23 @@ while x < N:
     - 用于在循环体内直接退出本循环
     - 举个李子：打印1~100累加和
 
-```css
-    sum = 0
-    x = 1
-    while True:
-        sum = sum + x
-        x = x + 1
-        if x > 100:
-            break
-    print sum
+```python
+sum = 0
+x = 1
+while True:
+    sum = sum + x
+    x = x + 1
+    if x > 100:
+        break
+print (sum)
 ```
 
 - 退出本次循环continue
     - 用于跳过本次循环后续的代码，开始下一次循环
 
-#### 集合
+---
+
+#### 4、集合
 
 - 有序集合list
     - 声明方式`foods = ['apple','banana','orange']`
@@ -135,9 +146,10 @@ while x < N:
     - 向dict中添加新的键值对，直接用赋值语句`dict['orange']=3`，如果key已存在，则覆盖原来的value
     - 使用最简单的for循环可以遍历dict的key
 
-```css
-for a in dict
-    print a,':',dict[a]
+```python
+dict = {'apple':1,'pear':2}
+for a in dict:
+    print (a,':',dict[a])
 ```
 
 - len()函数
@@ -152,7 +164,9 @@ for a in dict
     - 添加元素：`s.add('pear')`，若元素已经存在，不会报错但不再添加
     - 删除元素：`s.remove('pear')`，若元素不存在，会抛出KeyError异常
 
-#### 函数
+---
+
+#### 5、函数
 
 - abs()取绝对值
     - 可查看官方文档http://docs.python.org/2/library/functions.html#abs
@@ -175,17 +189,19 @@ for a in dict
     - return None可简写为return
     - `return a, b`可以返回多个值，实际上是返回了一个tuple
 
-```css
+```python
 def my_abs(x):
     if x > 0:
         return x
     else:
         return -x
+my_abs(-10)
 ```
 
 - 递归函数
     - 函数在内部调用自身，就是递归函数
     - 自定义一个阶乘函数
+    - 使用递归函数需要注意防止栈溢出，函数调用是通过栈（stack）这种数据结构实现的，每当进入一个函数调用，栈就会加一层栈帧，每当函数返回，栈就会减一层栈帧。由于栈的大小不是无限的，所以，递归调用的次数过多，会导致栈溢出。如本函数fact(1000)会抛出异常
 
 ```css
 def fact(n):
@@ -193,8 +209,8 @@ def fact(n):
         return 1
     else:
         return n * fact(n-1)
+fact(10)
 ```
-    - 使用递归函数需要注意防止栈溢出，函数调用是通过栈（stack）这种数据结构实现的，每当进入一个函数调用，栈就会加一层栈帧，每当函数返回，栈就会减一层栈帧。由于栈的大小不是无限的，所以，递归调用的次数过多，会导致栈溢出。如本函数fact(1000)会抛出异常
 
 - 默认参数
     - 定义函数时可以设置参数默认值，简化调用
@@ -202,13 +218,14 @@ def fact(n):
     - 默认参数需要定义在必须参数的后面
     - 设计一个函数计算x的N次方`power(2,3)`，默认计算x的二次方`power(2)`
 
-```css
-def power(x,N):
+```python
+def power(x,n=2):
     s = 1
     while n > 0:
         n = n - 1
         s = s * x
     return s
+power(3)
 ```
 
 - 可变参数
@@ -216,15 +233,18 @@ def power(x,N):
     - Python会将一组参数组装为一个tuple
     - 定义一个求平均值的函数，可以传入人一个数值
 
-```css
-def average(*args)
+```python
+def average(*args):
     sum = 0.0
     for x in args:
         sum += x
     return sum / len(args)
+average(2,3,4)
 ```
 
-#### 切片
+---
+
+#### 6、切片
 
 - list/tuple的切片
     - 取list的前三个元素`list[0:3]`，包含索引0，不包含索引3位置的元素

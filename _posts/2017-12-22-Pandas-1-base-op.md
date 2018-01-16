@@ -29,7 +29,7 @@ Pandas是Python的数据分析库，是基于Numpy的一种数据分析工具
 - 使用read_csv读取csv文件
 - 默认数据的第一行是列名
 - csv是以逗号为分割的文件，可以用excel查看
-- 使用文件：[food_info.csv](/file/food_info.csv)
+- 使用文件：[food_info.csv](/assets/in-post/pandas1/food_info.csv)
 
 ```python
 import pandas as pd

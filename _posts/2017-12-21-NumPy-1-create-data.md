@@ -384,7 +384,7 @@ print (data)
 - 参数表示文件路径
 - delimiter指定数据之间的分隔符
 - dtype指定读取的类型
-- 使用文件：[txtdata.txt](/file/txtdata.txt)
+- 使用文件：[txtdata.txt](/assets/in-post/numpy1/txtdata.txt)
 
 
 ```python
