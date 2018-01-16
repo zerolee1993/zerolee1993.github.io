@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Pandas数据处理基本操作"
-subtitle:   "Python数据分析库Pandas学习笔记（1/2）"
+title:      "Pandas-1-基本操作"
+subtitle:   "Python数据分析库Pandas学习笔记（1/3）"
 date:       2017-12-22
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"
@@ -9,11 +9,11 @@ categories: technology
 tags: Pandas
 ---
 
-### 使用Pandas处理数据
+### 简介
 
 Pandas是Python的数据分析库，是基于Numpy的一种数据分析工具
 对Numpy库进行了封装，帮助我们更加方便的进行数据分析
-本文简述了Pandas的常用方法，并列举了可执行代码（Python3版本）
+本文简述了Pandas的常用方法，并列举了可执行代码
 
 ---
 
