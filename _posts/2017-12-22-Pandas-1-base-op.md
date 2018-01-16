@@ -6,7 +6,7 @@ date:       2017-12-22
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"
 categories: technology
-tags: Python Pandas
+tags: Pandas
 ---
 
 ### 使用Pandas处理数据

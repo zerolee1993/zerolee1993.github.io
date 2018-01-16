@@ -6,7 +6,7 @@ date:       2017-12-21
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"
 categories: technology
-tags: Python NumPy
+tags: NumPy
 ---
 
 ### 简介

@@ -6,7 +6,7 @@ date:       2017-12-28
 author:     "Zero"
 #cover: "/assets/in-post/seaborn1/bg.jpg"
 categories: technology
-tags: Python Seaborn
+tags: Seaborn
 ---
 
 ### 简介
