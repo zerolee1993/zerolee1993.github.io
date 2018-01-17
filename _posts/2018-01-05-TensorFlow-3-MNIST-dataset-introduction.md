@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TensorFlow入门-(3)数据集MNIST简介"
+title:      "TensorFlow入门-3-数据集MNIST简介"
 subtitle:   "TensorFlow学习笔记（3/7）"
 date:       2018-01-05
 author:     "Zero"

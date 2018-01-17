@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TensorFlow入门-(6)卷积神经网络架构模型"
+title:      "TensorFlow入门-6-卷积神经网络架构模型"
 subtitle:   "TensorFlow学习笔记（6/7）"
 date:       2018-01-05
 author:     "Zero"

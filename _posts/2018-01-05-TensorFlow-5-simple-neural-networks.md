@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TensorFlow入门-(5)简单神经网络架构模型"
+title:      "TensorFlow入门-5-简单神经网络架构模型"
 subtitle:   "TensorFlow学习笔记（5/7）"
 date:       2018-01-05
 author:     "Zero"

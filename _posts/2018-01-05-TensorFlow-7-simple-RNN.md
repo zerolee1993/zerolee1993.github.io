@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TensorFlow入门-(7)循环神经网络架构模型"
+title:      "TensorFlow入门-7-循环神经网络架构模型"
 subtitle:   "TensorFlow学习笔记（7/7）"
 date:       2018-01-05
 author:     "Zero"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TensorFlow入门-(1)基本操作"
+title:      "TensorFlow入门-1-基本操作"
 subtitle:   "TensorFlow学习笔记（1/7）"
 date:       2018-01-05
 author:     "Zero"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TensorFlow入门-(2)线性回归实例"
+title:      "TensorFlow入门-2-线性回归实例"
 subtitle:   "TensorFlow学习笔记（2/7）"
 date:       2018-01-05
 author:     "Zero"
