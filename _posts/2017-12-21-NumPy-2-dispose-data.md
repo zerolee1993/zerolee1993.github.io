@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "使用Numpy处理数据"
+title:      "Numpy-2-处理数据"
 subtitle:   "Python科学计算库Numpy的学习笔记（2/2）"
 date:       2017-12-21
 author:     "Zero"
