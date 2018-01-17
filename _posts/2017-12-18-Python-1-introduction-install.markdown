@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-1-简介及安装"
-subtitle:   "第一篇（共七篇）：简介及安装"
+title:      "Python入门-1-简介及安装"
+subtitle:   "Python学习笔记（1/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: ""

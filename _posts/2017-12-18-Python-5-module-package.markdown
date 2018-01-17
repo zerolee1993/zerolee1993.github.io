@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-5-模块和包"
-subtitle:   "第五篇（共七篇）：模块和包"
+title:      "Python入门-5-模块和包"
+subtitle:   "Python学习笔记（5/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: ""

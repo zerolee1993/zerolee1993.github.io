@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Pandas-2-数据预处理实例"
+title:      "Pandas入门-2-数据预处理实例"
 subtitle:   "Python数据分析库Pandas学习笔记（2/3）"
 date:       2017-12-22
 author:     "Zero"

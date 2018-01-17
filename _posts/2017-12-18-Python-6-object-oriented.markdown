@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-6-面向对象"
-subtitle:   "第六篇（共七篇）：面向对象"
+title:      "Python入门-6-面向对象"
+subtitle:   "Python学习笔记（6/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: ""

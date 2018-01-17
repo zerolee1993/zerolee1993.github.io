@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "NumPy-1-构造数据"
+title:      "NumPy入门-1-构造数据"
 subtitle:   "Python科学计算库NumPy的学习笔记（1/2）"
 date:       2017-12-21
 author:     "Zero"

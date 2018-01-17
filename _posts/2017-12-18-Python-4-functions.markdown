@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-4-函数编程"
-subtitle:   "第四篇（共七篇）：函数编程"
+title:      "Python入门-4-函数编程"
+subtitle:   "Python学习笔记（4/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: ""

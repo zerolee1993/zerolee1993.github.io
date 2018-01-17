@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-2-基本语法"
-subtitle:   "第二篇（共七篇）：基本语法"
+title:      "Python入门-2-基本语法"
+subtitle:   "Python学习笔记（2/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: ""

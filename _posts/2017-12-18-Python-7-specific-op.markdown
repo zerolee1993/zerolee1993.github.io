@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-7-特殊方法"
-subtitle:   "第七篇（共七篇）：特殊方法"
+title:      "Python入门-7-特殊方法"
+subtitle:   "Python学习笔记（7/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"

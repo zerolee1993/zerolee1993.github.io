@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python入门教程-3-常用迭代"
-subtitle:   "第三篇（共七篇）：常用迭代"
+title:      "Python入门-3-常用迭代"
+subtitle:   "Python学习笔记（3/7）"
 date:       2017-12-18
 author:     "Zero"
 #cover: ""
