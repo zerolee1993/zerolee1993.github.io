@@ -7,7 +7,7 @@ header-img: /assets/img/home-bg.jpg
 
 {% include header.html %}
 
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
+<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}" style="border-radius: 15px;">
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
     {% if page.header-img %}

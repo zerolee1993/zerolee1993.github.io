@@ -208,7 +208,8 @@ a {
       width: 100%;
       max-height: 300px;
       margin-bottom: 14px;
-      overflow: hidden; }
+      overflow: hidden;
+      border-radius:15px; }
       .article-list .article-item .post-cover img {
         width: 100%;
         vertical-align: middle; }
@@ -260,7 +261,7 @@ a {
   .author-card .avatar {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 15px;
     margin: 0 auto;
     overflow: hidden;
     box-shadow: 0 1px 4px rgba(100, 110, 120, 0.53); }
