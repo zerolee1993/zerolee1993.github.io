@@ -7,12 +7,14 @@ header-img: /assets/img/home-bg.jpg
 
 {% include header.html %}
 
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}" style="border-radius: 15px;">
+<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}"
+    style="background: url('{{ page.header-img }}') center no-repeat; background-size: cover;border-radius: 15px;">
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
-    {% if page.header-img %}
-    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
-    {% endif %}
+    <!-- {% if page.header-img %} -->
+    <!-- <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt=""> -->
+    <!-- <div class="post-cover" style="background: url('{{ page.header-img }}') center no-repeat; background-size: cover;"> -->
+    <!-- {% endif %} -->
 </div>
 
 <main class="g-container home-content">
