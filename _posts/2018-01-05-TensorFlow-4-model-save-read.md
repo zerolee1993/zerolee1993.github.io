@@ -4,7 +4,7 @@ title:      "TensorFlow入门-4-模型保存和读取"
 subtitle:   "TensorFlow学习笔记（4/7）"
 date:       2018-01-05
 author:     "Zero"
-#cover: "/assets/in-post/seaborn1/bg.jpg"
+cover: "/assets/in-post/tensorflow-bg.jpg"
 categories: technology
 tags: TensorFlow
 ---

@@ -4,7 +4,7 @@ title:      "深度学习资源清单"
 subtitle:   "深度学习资源清单"
 date:       2017-12-31
 author:     "Zero"
-cover: "/assets/in-post/deeplearning-bg.jpg"
+#cover: "/assets/in-post/deeplearning-bg.jpg"
 categories: technology
 tags: deeplearning
 ---

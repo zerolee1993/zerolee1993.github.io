@@ -4,7 +4,7 @@ title:      "TensorFlow入门-5-简单神经网络架构模型"
 subtitle:   "TensorFlow学习笔记（5/7）"
 date:       2018-01-05
 author:     "Zero"
-#cover: "/assets/in-post/seaborn1/bg.jpg"
+cover: "/assets/in-post/tensorflow-bg.jpg"
 categories: technology
 tags: TensorFlow
 ---
