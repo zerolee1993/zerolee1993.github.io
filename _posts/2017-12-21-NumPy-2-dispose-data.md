@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Numpy入门-2-处理数据"
-subtitle:   "Python科学计算库Numpy的学习笔记（2/2）"
+title:      "NumPy 处理数据"
+subtitle:   "Python科学计算库NumPy简单使用（2/2）"
 date:       2017-12-21
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"

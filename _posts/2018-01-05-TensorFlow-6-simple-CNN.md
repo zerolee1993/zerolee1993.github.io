@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "TensorFlow入门-6-卷积神经网络架构模型"
-subtitle:   "TensorFlow学习笔记（6/7）"
+title:      "TensorFlow 卷积神经网络架构模型"
+subtitle:   "TensorFlow简单使用（6/7）"
 date:       2018-01-05
 author:     "Zero"
-cover: "/assets/in-post/tensorflow-bg.jpg"
+#cover: "/assets/in-post/tensorflow-bg.jpg"
 categories: technology
 tags: TensorFlow
 ---

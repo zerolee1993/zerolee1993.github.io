@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Pandas入门-3-Series序列基本操作"
-subtitle:   "Python数据分析库Pandas学习笔记（3/3）"
+title:      "Pandas Series序列基本操作"
+subtitle:   "Python数据分析库Pandas简单使用（3/3）"
 date:       2017-12-23
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"

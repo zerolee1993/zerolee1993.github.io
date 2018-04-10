@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "TensorFlow入门-3-数据集MNIST简介"
-subtitle:   "TensorFlow学习笔记（3/7）"
+title:      "TensorFlow 数据集MNIST简介"
+subtitle:   "TensorFlow简单使用（3/7）"
 date:       2018-01-05
 author:     "Zero"
-cover: "/assets/in-post/tensorflow-bg.jpg"
+#cover: "/assets/in-post/tensorflow-bg.jpg"
 categories: technology
 tags: TensorFlow
 ---

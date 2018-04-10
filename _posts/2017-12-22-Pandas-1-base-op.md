@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Pandas入门-1-基本操作"
-subtitle:   "Python数据分析库Pandas学习笔记（1/3）"
+title:      "Pandas 基本操作"
+subtitle:   "Python数据分析库Pandas简单使用（1/3）"
 date:       2017-12-22
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"

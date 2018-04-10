@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "TensorFlow入门-1-基本操作"
-subtitle:   "TensorFlow学习笔记（1/7）"
+title:      "TensorFlow 初识"
+subtitle:   "TensorFlow简单使用（1/7）"
 date:       2018-01-05
 author:     "Zero"
-cover: "/assets/in-post/tensorflow-bg.jpg"
+# cover: "/assets/in-post/tensorflow-bg.jpg"
 categories: technology
 tags: TensorFlow
 ---

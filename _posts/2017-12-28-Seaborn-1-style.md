@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Seaborn入门-1-画图风格设定"
-subtitle:   "Python可视化库Seaborn学习笔记（1/2）"
+title:      "Seaborn画图风格设定"
+subtitle:   "Python可视化库Seaborn简单使用（1/2）"
 date:       2017-12-28
 author:     "Zero"
 #cover: "/assets/in-post/seaborn1/bg.jpg"
