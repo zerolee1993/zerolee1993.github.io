@@ -10,16 +10,6 @@ tags: deeplearning
 ---
 
 
----
-
-## 目录
-
-* 纲要
-{:toc}
-
-
----
-
 ## 在windows中尝试人脸识别
 
 人脸识别作为人工智能的冰山一角，已经走进我们的现实生活，如人脸识别打卡、人脸识别手机解锁等
@@ -35,6 +25,8 @@ tags: deeplearning
 - github上有很多关于人工智能的开源项目， [face_recognition](https://github.com/ageitgey/face_recognition) 就是其中之一
 - 世界上最简单的人脸识别库
 - 支持通过Python或命令行识别和操作人脸
+
+---
 
 ### 1. 安装并配置所需环境
 
@@ -75,6 +67,8 @@ conda activate dlib
 conda install -c menpo dlib=19.9  
 
 pip install face_recognition
+
+---
 
 ### 2. 定位图片中人脸的位置
 
@@ -167,6 +161,7 @@ plt.show()
 
 ![png](/assets/in-post/face_recognition/output_4_1.png)
 
+---
 
 ### 3. 定位图片中人脸的面部特征位置
 
@@ -266,6 +261,7 @@ plt.show()
 
 ![png](/assets/in-post/face_recognition/output_8_1.png)
 
+---
 
 ### 4. 识别图中的人脸是谁
 
