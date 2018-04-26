@@ -3,7 +3,7 @@ layout:     post
 title:      "在windows中尝试人脸识别"
 subtitle:   "基于github开源项目face_recognition的人脸识别简单实现"
 date:       2018-4-26
-author:     "Zero"
+author:     "李少飞"
 cover: "/assets/in-post/face_recognition/bg.jpg"
 categories: technology
 tags: deeplearning
