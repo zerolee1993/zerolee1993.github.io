@@ -49,7 +49,6 @@
   - json、xml、http、webservice
   - linux(项目相关环境搭建及tomcat部署)
 
-
 ---
 
 # 工作经历
