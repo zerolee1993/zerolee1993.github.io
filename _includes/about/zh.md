@@ -108,12 +108,12 @@
 # 开源项目和作品
 
 ## 开源项目
-- [wxpay](https://github.com/zerolee1993/wxpay)：JavaWeb项目对接微信扫码支付简单实现
-- [stock_forecasting_model](https://github.com/zerolee1993/stock_forecasting_model)：深度学习股票预测模型
+- JavaWeb项目对接微信扫码支付简单实现 [https://github.com/zerolee1993/wxpay](https://github.com/zerolee1993/wxpay)
+- 深度学习股票预测模型 [https://github.com/zerolee1993/stock_forecasting_model](https://github.com/zerolee1993/stock_forecasting_model)
 
 ## 技术文章
-- [wxpay-JavaWeb项目对接微信扫码支付](http://www.lishaofei.com/technology/2018/04/26/wxpay.html)
-- [在windows中尝试人脸识别](http://www.lishaofei.com/technology/2018/04/26/face-recognition.html)
+- wxpay-JavaWeb项目对接微信扫码支付 [http://www.lishaofei.com/technology/2018/04/26/wxpay.html](http://www.lishaofei.com/technology/2018/04/26/wxpay.html)
+- 在windows中尝试人脸识别 [http://www.lishaofei.com/technology/2018/04/26/face-recognition.html](http://www.lishaofei.com/technology/2018/04/26/face-recognition.html)
 
 ---
 
