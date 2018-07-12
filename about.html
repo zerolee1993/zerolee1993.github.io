@@ -1,0 +1,41 @@
+---
+layout:     default
+title:      "工作简历-李少飞"
+cover: "assets/img/about.jpg"
+date:       2018-01-05
+---
+
+{% include header.html %}
+
+<header class="g-banner post-header {{ site.postPatterns | prepend: 'post-pattern-' }} {{ site.theme-color | prepend: 'bgcolor-' }} {% unless page.cover %}post-no-cover{% endunless %}" data-theme="{{ site.theme-color }}" style="border-radius: 0px;">
+    <div class="post-wrapper">
+        <div class="post-tags">
+            {% if page.tags.size > 0 %}
+            {% for tag in page.tags  %}
+            <a href="{{ "tags#" | append: tag | absolute_url }}" class="post-tag">{{ tag }}</a>
+            {% endfor %}
+            {% endif %}
+        </div>
+        <h1>{{ page.title }}</h1>
+    </div>
+    {% if page.cover %}
+    <div class="filter"></div>
+    <div class="post-cover" style="background: url('{{ page.cover }}') center no-repeat; background-size: cover;">
+    {% endif %}
+</header>
+
+<div class="post-content">
+    {% if page.subtitle %}
+    <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
+    <article class="markdown-body">
+      {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+      {{ about_zh | markdownify }}
+    </article>
+    {% if site.social-share %}
+    <div class="social-share-wrapper">
+        <div class="social-share"></div>
+    </div>
+    {% endif %}
+</div>
+{% include footer.html %}
