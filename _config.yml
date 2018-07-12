@@ -46,6 +46,7 @@ sns:
   # instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/zerolee1993'
   zhihu: '//www.zhihu.com/people/zerolee1993'
+  jianshu: '//www.jianshu.com/u/bde326ec0875'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
