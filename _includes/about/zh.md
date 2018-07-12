@@ -14,7 +14,7 @@
  - 技术博客：[http://www.lishaofei.com](http://www.lishaofei.com)
  - Github：[http://github.com/zerolee1993](http://github.com/zerolee1993)
  - 期望职位：Java工程师
- - 期望薪资：18k ~ 22k
+ - 期望薪资：18k ~ 25k
  - 期望城市：北京
 
 ---
