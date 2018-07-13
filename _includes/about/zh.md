@@ -59,7 +59,7 @@
   - 测试统计：协助数据部、产品部进行相关数据质量的测试以及数据的统计
 
 #### 项目一 华道征信平台
-
+- 项目地址：[http://plat-test.sinowaycredit.com:8087/windforce/sinoway/ifame/login/login.jsp](http://plat-test.sinowaycredit.com:8087/windforce/sinoway/ifame/login/login.jsp)
 - 软件环境：Spring SpringMVC Mybatis DB2 Redis Hadoop Hbase Zookeeper Kafka CentOS
 - 开发工具：IEDA Tomcat7 DbVisualizer SVN Jsonviewer XMLSpy
 
