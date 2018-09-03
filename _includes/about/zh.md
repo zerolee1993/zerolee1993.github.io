@@ -11,10 +11,8 @@
  - 李少飞 / 男 / 1993
  - 本科 / 河北工程大学 / 计算机科学与技术(2011.9-2015.6)
  - 工作年限：3年
- - 技术博客：[http://www.lishaofei.com](http://www.lishaofei.com)
- - Github：[http://github.com/zerolee1993](http://github.com/zerolee1993)
- - 期望职位：Java工程师
- - 期望城市：北京
+ - Java后台工程师
+ - 北京
 
 ---
 
@@ -25,9 +23,6 @@
   - Groovy(Web项目开发)
   - Python(数据分析及神经网络建模)
   - Go(了解)
-- 页面技术
-  - Html、Jsp、Css，Sass
-  - JavaScript、JQuery、Ajax
 - Web框架
   - Spring、Spring MVC
   - Mybatis、Hibernate、Struts2
@@ -110,8 +105,3 @@
 ## 技术文章
 - wxpay-JavaWeb项目对接微信扫码支付 [http://www.lishaofei.com/technology/2018/04/26/wxpay.html](http://www.lishaofei.com/technology/2018/04/26/wxpay.html)
 - 在windows中尝试人脸识别 [http://www.lishaofei.com/technology/2018/04/26/face-recognition.html](http://www.lishaofei.com/technology/2018/04/26/face-recognition.html)
-
----
-
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
