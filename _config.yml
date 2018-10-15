@@ -62,7 +62,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
-  toc_levels: 3..6
+  toc_levels: 1..1
 
 
 RSS: false
