@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python 简学"
-subtitle:   "深度学习的准备工作~"
+title:      "Python 基本语法"
+subtitle:   "开展深度学习的预备知识"
 date:       2017-12-21
 author:     "李少飞"
 cover: "/assets/in-post/python1/bg.jpg"
