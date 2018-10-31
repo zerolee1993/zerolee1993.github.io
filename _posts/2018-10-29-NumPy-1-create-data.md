@@ -2,7 +2,7 @@
 layout:     post
 title:      "NumPy 构造数据"
 subtitle:   "Python科学计算库NumPy简单使用（1/2）"
-date:       2017-12-21
+date:       2018-10-29
 author:     "Zero"
 #cover: "/assets/in-post/python1/bg.jpg"
 categories: technology

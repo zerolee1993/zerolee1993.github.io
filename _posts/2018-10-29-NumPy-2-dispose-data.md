@@ -2,8 +2,8 @@
 layout:     post
 title:      "NumPy 处理数据"
 subtitle:   "Python科学计算库NumPy简单使用（2/2）"
-date:       2017-12-21
-author:     "Zero"
+date:       2018-10-29
+author:     "李少飞"
 #cover: "/assets/in-post/python1/bg.jpg"
 categories: technology
 tags: NumPy

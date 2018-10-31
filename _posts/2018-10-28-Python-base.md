@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "Python 基本语法"
-subtitle:   "开展深度学习的预备知识"
-date:       2017-12-21
+title:      "深度学习的Python基础"
+subtitle:   "深度学习的预备知识"
+date:       2018-10-28
 author:     "李少飞"
 cover: "/assets/in-post/python1/bg.jpg"
 categories: technology
-tags: NumPy
+tags: Python
 ---
 
-### 目录
+目录
 
 * 纲要
 {:toc}
@@ -20,21 +20,9 @@ tags: NumPy
 
 ## 1.1 应用场景
 
-- 适用于
-  - Web网站和各种网络服务
-  - 系统工具和脚本
-  - 作为“胶水”语言把其他语言开发的模块包装起来方便使用
-- 不适用
-  - 贴近硬件的代码（C）
-  - 移动开发（ObjC，Swift/Java）
-  - 游戏开发（C/C++）
-- 实际应用场景
-  - YouTube
-  - 豆瓣
-  - openstack开源云计算平台
-  - Google
-  - Yahoo
-  - NASA美国航空航天局
+- 适用于：Web网站和各种网络服务、系统工具和脚本、作为“胶水”语言把其他语言开发的模块包装起来方便使用
+- 不适用：贴近硬件的代码（C）、移动开发（ObjC，Swift/Java）、游戏开发（C/C++）
+- 实际应用场景：YouTube、豆瓣、 openstack开源云计算平台、Google、Yahoo、NASA美国航空航天局
 
 ## 1.2 语言对比
 
