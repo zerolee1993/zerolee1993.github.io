@@ -77,6 +77,10 @@ tags: deeplearning
 
 ### 1.3 导数与行列式
 
+![png](/assets/in-post/deeplearning.ai-1/1-15.png)
+
+![png](/assets/in-post/deeplearning.ai-1/1-16.png)
+
 ### 1.4 python基础
 
 1. Python基础语法：
@@ -235,6 +239,8 @@ $$L(\hat{y}^{(i)},y^{(i)})=-(y^{(i)}log(\hat{y}^{(i)})+(1-y^{(i)})log(1-\hat{y}^
 
 我们只要降低L，就能达到 $\hat{y}^{(i)}\approx y^{(i)}$ 的目的
 
+其实，又很多形式的公式能够达到这个效果，选用这个公式作为损失函数公式的原因，是该函数为凸函数，利于进行梯度下降优化。如果函数非凸，梯度下降有可能下降到局部最优解，影响优化过程
+
 **成本函数(cost function)**
 
 用于衡量在全体训练集上的表现，用每个样本的损失和的均值表示
@@ -254,7 +260,7 @@ $\sigma(z)=\frac{1}{1+e^{-z}}$
 
 $J(w,b)=\frac{1}{m}\sum_{i=1}^mL(\hat{y}^{(i)},y^{(i)})=-\frac{1}{m}\sum_{i=1}^m[y^{(i)}log(\hat{y}^{(i)})+(1-y^{(i)})log(1-\hat{y}^{(i)})]$
 
-我们的目的是找到w、b，使J最小，如果w是一个标量，即只有一个特征，可以得到如下的图像
+我们的目的是找到合适的w、b，使J最小，如果w是一个标量，即只有一个特征，可以得到如下的图像
 
 ![png](/assets/in-post/deeplearning.ai-1/1-7.png)
 
