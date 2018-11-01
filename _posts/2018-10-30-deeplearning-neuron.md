@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "深度学习中的神经元"
-subtitle:   "通过猫图识别认识神经网的最小组成单位——神经元的内部构造及运行原理（未完待续）"
+subtitle:   "通过猫图识别认识神经网的最小组成单位——神经元的内部构造及运行原理"
 date:       2018-10-30
 author:     "李少飞"
 cover: "/assets/in-post/deeplearning.ai-1/bg.jpg"
