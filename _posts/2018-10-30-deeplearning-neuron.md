@@ -77,7 +77,7 @@ tags: deeplearning
 
 ### 1.3 导数与行列式
 
-### 1.5 python基础
+### 1.4 python基础
 
 1. Python基础语法：
   - [https://www.lishaofei.com/technology/2017/12/21/Python-base.html](https://www.lishaofei.com/technology/2017/12/21/Python-base.html)
@@ -189,7 +189,7 @@ $x^{(i)}$ 表示第i个样本的特征， $y^{(i)}$ 表示第i个样本的标签
 
 ---
 
-## 3 逻辑回归-神经元
+## 3 逻辑回归
 
 ### 3.1 sigmoid激活函数
 
