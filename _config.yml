@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   主页: '/'
   标签: '/tags.html'
-  关于我: '/about.html'
+#  关于我: '/about.html'
 
 # Author 配置博主信息
 author: '李少飞'
@@ -43,7 +43,6 @@ postPatterns: 'food'
 sns:
   weibo: '//weibo.com/3086119767'
   juejin: '//juejin.im/user/5a43bf516fb9a045211efe91'
-  # instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/zerolee1993'
   zhihu: '//www.zhihu.com/people/zerolee1993'
   jianshu: '//www.jianshu.com/u/bde326ec0875'
